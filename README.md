@@ -1,6 +1,6 @@
 # Coffee Shop Sales Analysis Excel Dashboard
 
-# Objective: Analyze sales data from a coffee shop and build a comprehensive Excel dashboard to uncover insights for strategic decision-making and business enhancement.
+Objective: Analyze sales data from a coffee shop and build a comprehensive Excel dashboard to uncover insights for strategic decision-making and business enhancement.
 
 # Key Questions Addressed:
 
